@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\obj\Debug\ConstructDeconstruct.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\obj\Debug\App.g.cs
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\obj\Debug\ConstructDeconstruct_MarkupCompile.cache
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\obj\Debug\ConstructDeconstruct_MarkupCompile.lref
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\bin\Debug\ConstructDeconstruct.exe.config
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\bin\Debug\ConstructDeconstruct.exe
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\bin\Debug\ConstructDeconstruct.pdb
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\obj\Debug\App.baml
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\obj\Debug\ConstructDeconstruct.g.resources
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\obj\Debug\ConstructDeconstruct.Properties.Resources.resources
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\obj\Debug\ConstructDeconstruct.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\obj\Debug\ConstructDeconstruct.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\obj\Debug\ConstructDeconstruct.exe
+C:\Users\User\source\repos\ConstructDeconstruct\ConstructDeconstruct\obj\Debug\ConstructDeconstruct.pdb
